@@ -29,6 +29,17 @@
   },
   "private": true,
   "dependencies": {
+
+    "@nrwl/angular": "9.2.3",
+    "@angular/animations": "9.0.0",
+    "@angular/common": "9.0.0",
+    "@angular/compiler": "9.0.0",
+    "@angular/core": "9.0.0",
+    "@angular/forms": "9.0.0",
+    "@angular/platform-browser": "9.0.0",
+    "@angular/platform-browser-dynamic": "9.0.0",
+    "@angular/router": "9.0.0",
+
     "@nrwl/angular": "9.0.1",
     "@angular/animations": "9.1.3",
     "@angular/common": "9.1.3",
@@ -38,6 +49,7 @@
     "@angular/platform-browser": "9.1.3",
     "@angular/platform-browser-dynamic": "9.1.3",
     "@angular/router": "9.1.3",
+snyk-upgrade-9a356d457f24775b0b3a4c683f038978
     "core-js": "^2.5.4",
     "rxjs": "~6.5.5",
     "zone.js": "^0.10.2"
