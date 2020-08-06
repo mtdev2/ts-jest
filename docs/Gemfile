@@ -21,8 +21,8 @@ gem "github-pages", ">= 204", group: :jekyll_plugins
 group :jekyll_plugins do
   # PlantUML
   gem "jekyll-plantuml"
-  gem "jekyll-font-awesome-sass"
-  gem "jekyll-git_metadata"
+  gem "jekyll-font-awesome-sass", ">= 0.1.1"
+  gem "jekyll-git_metadata", ">= 0.2.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
