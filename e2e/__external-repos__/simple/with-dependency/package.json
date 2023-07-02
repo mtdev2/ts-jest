@@ -42,7 +42,7 @@
   "dependencies": {
     "@types/jest": "^25.1.2",
     "dependency": "file:../dependency",
-    "jest": "^25.1.0"
+    "jest": "^26.0.0"
   },
   "main": "./index.ts"
 }
